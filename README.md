@@ -8,12 +8,12 @@ Proposed workflow for the Bot
 
 2. Show the available mathematical operations
 
-• You can use a simple menu based approach to take the operation
+       • You can use a simple menu based approach to take the operation
 
-• Example categories : “addition”, subtraction”, ”multiplication”, “division”
+       • Example categories : “addition”, subtraction”, ”multiplication”, “division”
 
 3. Based on these input show the output for the users
 
 4. After the flow ends - If a user says ”more operations” , take the new inputs and proceed
 
-• For example ( let us say user asked for sum of 4 and 5 )
+       • For example ( let us say user asked for sum of 4 and 5 )
